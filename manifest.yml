@@ -1,5 +1,5 @@
 ---
 applications:
-- buildpack: https://github.com/cloudfoundry/staticfile-buildpack
-  name: Puppy_IC192
-  memory: 56M
+  - buildpack: https://github.com/cloudfoundry/staticfile-buildpack
+    name: Puppy_IC192bicho
+    memory: 56M
